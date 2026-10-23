@@ -1,0 +1,8 @@
+payrecoverai.db
+*.db
+app_backup.py
+app copy.py
+__pycache__/
+.venv/
+venv/
+.env
